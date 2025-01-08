@@ -1,0 +1,17 @@
+/* author: https://codepen.io/piotrkalinowski/pen/peLqaZ
+Piotr Kalinowski */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+  }
+  html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  #container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+  }  
